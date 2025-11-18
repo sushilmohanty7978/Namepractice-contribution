@@ -89,3 +89,5 @@
 - Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
 - Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
 - Himanshu Yadav, `Javascript + C# + SQL` Programmer Analyst
+- Suraj Vaishnav, MERN Stack Learner (React + Node.js), Programmer Analyst at Cepialabs.
+
